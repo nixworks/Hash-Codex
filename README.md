@@ -1,1 +1,1 @@
-# Hash-Codex
+# Hash Codex
